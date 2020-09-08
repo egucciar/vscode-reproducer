@@ -1,0 +1,1 @@
+import '@local/some-other-import';

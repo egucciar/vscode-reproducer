@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "@app": ["modules/@app/*"],
+      "@app/*": ["modules/@app/*"],
+      "@local/*": ["modules/@local/*"],
+      "@local": ["modules/@local/*"],
+    },
+    "jsx": "preserve"
+  }
+}
