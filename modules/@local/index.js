@@ -1,1 +1,1 @@
-import '@local/some-other-import';
+import '@app';
